@@ -5,4 +5,4 @@
 
 #### Note about files:
 
- *project.ipynb* contains the final version of the project code
+ * *project.ipynb* contains the final version of the project code
