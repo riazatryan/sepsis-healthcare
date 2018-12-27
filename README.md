@@ -12,13 +12,9 @@
 This project was initially inspired by an analysis of sepsis mortality and identification methods done by Alistair Johnson and others. Their work is cited below:
 
 
-@misc{alistair_johnson_2018_1256723,
-  author       = {Alistair Johnson and Tom Pollard},
-  title        = {sepsis3-mimic},
-  version      = {1.0.0},
-  publisher    = {Zenodo},
-  month        = may,
-  year         = 2018,
-  doi          = {10.5281/zenodo.1256723},
-  url          = {https://doi.org/10.5281/zenodo.1256723}
-}
+Johnson, A., & Aboab, J. (2018). A Comparative Analysis of Sepsis Identification Methods in an
+	Electronic Database. US National Library of Medicine . Retrieved from
+	https://www.ncbi.nlm.nih.gov/pubmed/29303796
+
+
+A full list of citations can be found in *report.pdf*
